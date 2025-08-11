@@ -37,7 +37,7 @@ Whether you’re seeking to automate a complex multi-indicator strategy, execute
 
 ---
 
-![Cryptohopper Dashboard](https://docs.cryptohopper.com/img/cryptohopper-logo.png)
+![Cryptohopper Dashboard](https://cdn.cryptohopper.com/images/landing3/landing_marketmaking.png)
 
 ---
 
